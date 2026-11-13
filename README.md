@@ -1,4 +1,10 @@
-# IoT Lighting (Варіант 13)
+<div align="center">
+  
+# КП2 (Варіант 13): Система освітлення з IoT
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
+
+</div>
 
 Android-застосунок для керування освітленням квартири: світильники за зонами, живлення, форми з перевіркою полів, енергоаналітика й історія показників у локальній базі.
 
